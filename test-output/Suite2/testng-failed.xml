@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite2]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="element2(failed)">
+    <classes>
+      <class name="TestScenarios.TestElements">
+        <methods>
+          <include name="terminate"/>
+          <include name="beforetest"/>
+          <include name="Radiobox_test"/>
+        </methods>
+      </class> <!-- TestScenarios.TestElements -->
+    </classes>
+  </test> <!-- element2(failed) -->
+</suite> <!-- Failed suite [Suite2] -->

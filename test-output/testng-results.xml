@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T15:00:17 IST" name="Default suite" finished-at="2023-05-31T15:00:27 IST" duration-ms="9155">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T15:00:17 IST" name="Default test" finished-at="2023-05-31T15:00:27 IST" duration-ms="9155">
+      <class name="Objects.switchingFrame">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Objects.switchingFrame@53fe15ff]" started-at="2023-05-31T15:00:17 IST" name="beforeTest" finished-at="2023-05-31T15:00:21 IST" duration-ms="3754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="multipleFrame()[pri:0, instance:Objects.switchingFrame@53fe15ff]" started-at="2023-05-31T15:00:21 IST" name="multipleFrame" finished-at="2023-05-31T15:00:26 IST" duration-ms="5215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleFrame -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Objects.switchingFrame@53fe15ff]" started-at="2023-05-31T15:00:26 IST" name="teardown" finished-at="2023-05-31T15:00:27 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Objects.switchingFrame -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
